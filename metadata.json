@@ -1,0 +1,8 @@
+{
+  "name": "Project ZX",
+  "description": "A vibrant, neon-themed social mobile app prototype featuring a unique diamond-based gamification system, discovery cards, and community circles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
